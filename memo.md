@@ -44,3 +44,8 @@ freerunninngってなに。。
 
 ## 10.2.3
 過去の出力すべてが効いてくる場合に有用
+
+https://www.slideshare.net/unnonouno/nip2015endtoend-memory-networks
+https://www.slideshare.net/tsubosaka/deeplearning-60419659
+http://deeplearning.hatenablog.com/entry/memory_networks
+https://qiita.com/t_Signull/items/21b82be280b46f467d1b
